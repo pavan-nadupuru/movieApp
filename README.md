@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## PLEASE NAVIGATE ITNO THIS FOLDER LOCATION AND RUN THE 
+## COMMAND npm install AND ONCE DEPENDENCIES ARE INSTALLED, 
+## PLEASE RUN npm start COMMAND TO START THE SERVER AND VIEW THE PROJECT.
 
 ## Available Scripts
 
